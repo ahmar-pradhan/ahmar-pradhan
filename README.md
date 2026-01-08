@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ahmar-pradhan
+- 👋 Hi, I’m Ahmar Marghub
 - 👀 I’m interested in Discovering new innovation
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on learning Programming
 - 📫 How to reach me ahmarmarghub@gmail.com
 - 😄 Pronouns: 
